@@ -2,6 +2,18 @@
     margin: 0;
     padding: 0;
 }
-body{
-    background-color: yellow;
+.main{
+    line-height: 1cm;
 }
+/* .col1{
+    background-color: aqua;
+}
+.col2{
+    background-color: red;
+}
+.col3{
+    background-color: blue;
+} */
+/* body{
+    background-color: yellow;
+} */
