@@ -1,10 +1,18 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-.main{
+
+.main {
     line-height: 1cm;
 }
+
+.myrow {
+    margin: 0 !important;
+}
+
+
+
 /* .col1{
     background-color: aqua;
 }
